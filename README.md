@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **rawatavi.211@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/dqyNQ](https://shorturl.at/dqyNQ)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanskar-rawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanskar-rawat/" height="30" width="40" /></a>
